@@ -5,6 +5,10 @@ title: Home
 
 # Hi, I’m Danna, contract technical writer and project manager.
 
+***headshot here***
+![Portrait of Danna, Technical Writer](images/profile.jpg)
+
+
 I help companies publish clear, easily navigable documentation, especially for complex, cloud-based products.
 
 **What I do best:**

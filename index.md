@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Danna, contract technical writer and project manager.
+# Hi, I’m Danna, Technical Writer and Project Manager.
 
-I help companies publish clear, high-impact documentation for complex, cloud-based products.
+I help companies publish clear, high-impact documentation for complex products.
 
 **What I do best:**
 - Turn complex systems into usable, searchable docs

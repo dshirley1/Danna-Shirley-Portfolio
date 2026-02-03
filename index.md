@@ -10,7 +10,8 @@ I help companies publish clear, high-impact documentation for complex products.
 **What I do best:**
 - Turn complex systems into usable, searchable docs
 - Improve information architecture and navigation
-- Partner with engineering, SecOps/DevOps, and product to keep docs accurate and release-ready
+- Partner with engineering and product management to keep docs accurate and release-ready
+- Align cross-functional teams to build broader communciations strategies
 
 ---
 

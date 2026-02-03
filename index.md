@@ -3,15 +3,15 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Danna, Technical Writer, Project Manager, and Information Strategist.
+# Hi and welcome to my portfolio.
 
-I help companies publish clear, high-impact documentation about complex systems and platforms for customers, partners, and internal stakeholders.
+I'm a technical writer, project manager, and information strategist. I help companies publish clear, high-impact documentation about complex systems and platforms. 
 
 **What I do best:**
-* Make complex information meaningful and useful
-* Improve information architecture and navigation
+* Make complex information clear, useful content for various audiences
+* Improve information architecture and findability
 * Partner with engineering and product management to keep content accurate and release-ready
-* Align cross-functional teams to build broader communciations strategies
+* Align cross-functional teams to build effective communciation strategies
 
 ---
 
@@ -19,14 +19,14 @@ I help companies publish clear, high-impact documentation about complex systems 
 
 ### API / Developer Documentation / Technical Solutions
 
-I led a team that defined standards for blueprints, which provide structured guidance for developers who want to implement high-value features. My team created templates and guidelines for language and visuals, and I personally edited many blueprints, including:
+I led a team that defined standards for blueprints, which provide structured guidance for developers who want to implement high-value features. My team created templates and guidelines for language and visuals, and I edited many blueprints, including:
 
  - [Open Messaging Blueprint (Genesys Cloud Developer Center)](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
  - [Build an email translation assistant with the AWS Translate service Blueprint (Genesys Cloud Developer Center)]([https://developer.genesys.cloud/commdigital/digital/openmessaging/](https://developer.genesys.cloud/blueprints/email-translator-blueprint/))
 
 ### Announcements about Product Features
 
-I led the initiative to build a new Announcements space on the Genesys Cloud Resource Center, which is the main source for product information about Genesys Cloud. I worked with my executive sponsor to define requirements and then coordinated with the Release Documentation Coordinator, UX Researches, UX Designers, and Documentation Engineering to design the site architecture and functionality. After launch, I ensured smooth operations and regular updates to this highly visible space.  
+I led the initiative to build a new Announcements space on the Genesys Cloud Resource Center, which is the main source for product information about Genesys Cloud. I coordinated with the Release Management, UX, and Engineering teams to design the site requirements, architecture, and functionality. After launch, I ensured smooth operations and regular updates to this highly visible space.  
 
 - [Announcements (Genesys Cloud Resource Center)](https://help.genesys.cloud/announcements/)
 
@@ -43,8 +43,7 @@ I led the initiative to build a new Announcements space on the Genesys Cloud Res
 
 ## Tools and workflows
 
-Markdown • Git/GitHub • Docs-as-code • Style guides • Diagrams (LucidChart, Miro)
-Jira • Confluence  • MS Office
+Markdown • Git/GitHub • Docs-as-code • Style guides • Diagrams (LucidChart, Miro) • Jira • Confluence  • MS Office
 
 ---
 

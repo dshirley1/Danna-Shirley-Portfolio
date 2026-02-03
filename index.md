@@ -52,4 +52,4 @@ Markdown • Git/GitHub • Docs-as-code • Style guides • Diagrams (LucidCha
 
 - Email: dshirley1@indy.rr.com
 - LinkedIn: https://www.linkedin.com/in/danna-shirley-b6a5a314/
-- GitHub: [https://dshirley1.github.io/Portfolio-DS1715/](https://dshirley1.github.io/Danna-Shirley-Portfolio/)
+- GitHub: [https://dshirley1.github.io/Portfolio-DS1715](https://dshirley1.github.io/Danna-Shirley-Portfolio/) 

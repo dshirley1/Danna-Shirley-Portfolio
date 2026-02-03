@@ -5,7 +5,7 @@ title: Home
 
 # Welcome!
 
-I'm a technical writer, project manager, and information strategist. I help companies publish clear, high-impact documentation about complex systems and platforms. 
+I'm Danna, a technical writer, project manager, and information strategist. I help companies publish clear, high-impact documentation about complex systems and platforms. 
 
 **What I do best:**
 * Make complex information clear, useful content for various audiences

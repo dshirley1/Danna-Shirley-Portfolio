@@ -17,7 +17,7 @@ I'm Danna, a technical writer, project manager, and information strategist. I he
 
 ## Featured work 
 
-### API / Developer Documentation / Technical Solutions
+### API / Developer Documentation about Technical Solutions
 
 I led a team that defined standards for blueprints, which provide structured guidance for developers who want to implement high-value features. My team created templates and guidelines for language and visuals, and I edited many blueprints, including:
 

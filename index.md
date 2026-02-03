@@ -5,7 +5,7 @@ title: Home
 
 # Hi, I’m Danna, contract technical writer and project manager.
 
-![Portrait of Danna, Technical Writer](images/DShirley headshot.jpeg)
+<img src="images/DShirley headshot.jpeg" alt="Portrait of Danna" width="150">
 
 I help companies publish clear, easily navigable documentation, especially for complex, cloud-based products.
 

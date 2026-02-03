@@ -8,9 +8,9 @@ title: Home
 I help companies publish clear, high-impact documentation about complex systems and platforms for customers, partners, and internal stakeholders.
 
 **What I do best:**
-* Turn complex systems into usable, searchable docs
+* Make complex information meaningful and useful
 * Improve information architecture and navigation
-* Partner with engineering and product management to keep docs accurate and release-ready
+* Partner with engineering and product management to keep content accurate and release-ready
 * Align cross-functional teams to build broader communciations strategies
 
 ---

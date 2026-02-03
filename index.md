@@ -23,11 +23,6 @@ I led a team that defined standards for blueprints, which provide structured gui
 
 **Outcome:** Help developers build complex, high-value solutions on a cloud platform
 
-**Outcome:** Help developers build complex, high-value solutions on a cloud platform
-
-
-**Outcome:** Enable software developers to build complex solutions that deliver strategic business value on a cloud platform
-
  - [Open Messaging Blueprint (Genesys Cloud Developer Center)](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
  - [Build an email translation assistant with the AWS Translate service Blueprint (Genesys Cloud Developer Center)]([https://developer.genesys.cloud/commdigital/digital/openmessaging/](https://developer.genesys.cloud/blueprints/email-translator-blueprint/))
 

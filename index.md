@@ -5,9 +5,7 @@ title: Home
 
 # Hi, I’m Danna, contract technical writer and project manager.
 
-<img src="images/DShirley headshot.jpeg" alt="Portrait of Danna" width="150">
-
-I help companies publish clear, easily navigable documentation, especially for complex, cloud-based products.
+I help companies publish clear, high-impact documentation for complex, cloud-based products.
 
 **What I do best:**
 - Turn complex systems into usable, searchable docs
@@ -16,26 +14,23 @@ I help companies publish clear, easily navigable documentation, especially for c
 
 ---
 
-## Featured work
+## Featured work 
 
 ### API / Developer Documentation / Blueprints
-**Outcome:** Broader adoption of complex features and solutions
+
+**My contribution** I led the team that defined blueprint standards, including standard template, language, and image guidelines. I personally edited numerous blueprints, including those listed below.
+
+**Outcome:** Enable softawre developers to build complex solutions using features on a cloud platform
 
  - [Open Messaging Blueprint on the Genesys Cloud Developer Center](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
  - [Build an email translation assistant with the AWS Translate service Blueprint on the Genesys Cloud Developer Center]([https://developer.genesys.cloud/commdigital/digital/openmessaging/](https://developer.genesys.cloud/blueprints/email-translator-blueprint/))
 
+### Announcements on the Genesys Cloud Resource Center
 
-### 2) Infrastructure / Operations Docs
-**Outcome:** Better reliability and smoother handoffs  
-- Runbooks and incident-ready procedures  
-- System diagrams and operational checklists  
-➡️ _Sample:_ [Operations Runbook](./samples/runbook)
+**My contribution** I led the initiative to build a new Announcements space on the Genesys Cloud Resource Center. I worked with my executive sponsor to define requirements, and coordinated with the Release Documentation Coordinator, UX Researches and UX Designers, and Documentation Engineering to design the site architecture. After launch, I ensured smooth operations and regular updates to this highly visible space.  
 
-### 3) Security Documentation (Redacted / Recreated)
-**Outcome:** Clearer security posture communication  
-- Security policies and disclosure guidance  
-- Security bulletins / advisories format  
-➡️ _Sample:_ [Security Docs Sample](./samples/security)
+**Outcome:** Raise awareness of upcoming features with UI/UX impact  
+- [Announcements space on the Genesys Cloud Resource Center](https://help.genesys.cloud/announcements/)
 
 ---
 
@@ -50,7 +45,7 @@ I help companies publish clear, easily navigable documentation, especially for c
 
 ## Tools and workflows
 
-Markdown • Git/GitHub • Docs-as-code • Style guides • Diagrams (Mermaid/draw.io)
+Markdown • Git/GitHub • Docs-as-code • Style guides • Diagrams (LucidChart, Miro)
 
 ---
 
@@ -59,5 +54,3 @@ Markdown • Git/GitHub • Docs-as-code • Style guides • Diagrams (Mermaid/
 - Email: dshirley1@indy.rr.com
 - LinkedIn: https://www.linkedin.com/in/danna-shirley-b6a5a314/
 - GitHub: https://dshirley1.github.io/Portfolio-DS1715/
-
-_If you’re hiring for a contract role, I’m happy to share additional NDA-safe samples._

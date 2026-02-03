@@ -37,7 +37,7 @@ I led the initiative to build a new Announcements space on the Genesys Cloud Res
 - **Start with the user journey:** what someone is trying to accomplish and what do they need to know 
 - **Design the structure:** clear nav, consistent templates, predictable naming  
 - **Write for skimming:** headings that answer questions, short sections, plenty of examples  
-- **Make it maintainable:** automation, docs-as-code, and AI-enablement when appropriate; lightweight governance, iterative workflows
+- **Make it maintainable and scalable:** automation, docs-as-code, and AI-enablement when appropriate; lightweight governance, iterative workflows
 
 ---
 

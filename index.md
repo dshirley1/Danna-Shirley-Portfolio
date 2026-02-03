@@ -19,8 +19,11 @@ I help companies publish clear, easily navigable documentation, especially for c
 ## Featured work
 
 ### 1) API / Developer Documentation / Blueprints
-**Outcome:** Faster enablement and broader adoption of complex features
-➡️ _Sample:_ [Open messaging blueprint](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
+**Outcome:** Broader adoption of complex features and solutions
+
+➡️ _Sample:_ [Open Messaging Blueprint on the Genesys Cloud Developer Center](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
+➡️ _Sample:_ [Build an email translation assistant with the AWS Translate service Blueprint on the Genesys Cloud Developer Center]([https://developer.genesys.cloud/commdigital/digital/openmessaging/](https://developer.genesys.cloud/blueprints/email-translator-blueprint/))
+
 
 ### 2) Infrastructure / Operations Docs
 **Outcome:** Better reliability and smoother handoffs  

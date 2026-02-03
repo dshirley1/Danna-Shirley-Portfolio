@@ -5,13 +5,13 @@ title: Home
 
 # Hi, I’m Danna, Technical Writer and Project Manager.
 
-I help companies publish clear, high-impact documentation for complex products.
+I help companies publish clear, high-impact documentation about complex systems and platforms for customers, partners, and internal stakeholders.
 
 **What I do best:**
-- Turn complex systems into usable, searchable docs
-- Improve information architecture and navigation
-- Partner with engineering and product management to keep docs accurate and release-ready
-- Align cross-functional teams to build broader communciations strategies
+* Turn complex systems into usable, searchable docs
+* Improve information architecture and navigation
+* Partner with engineering and product management to keep docs accurate and release-ready
+* Align cross-functional teams to build broader communciations strategies
 
 ---
 
@@ -19,12 +19,17 @@ I help companies publish clear, high-impact documentation for complex products.
 
 ### API / Developer Documentation / Blueprints
 
-I led the team that defined standards for blueprints, which provide technical guidance on the implementation of high-value features. My team defined the template and guidelines for language and images. I personally edited numerous blueprints, including those listed below.
+I led a team that defined standards for blueprints, which provide structured guidance on implementing high-value features. We created templates and guidelines for language and visuals, and I personally edited many blueprints, including:
+
+**Outcome:** Help developers build complex, high-value solutions on a cloud platform
+
+**Outcome:** Help developers build complex, high-value solutions on a cloud platform
+
 
 **Outcome:** Enable software developers to build complex solutions that deliver strategic business value on a cloud platform
 
- - [Open Messaging Blueprint on the Genesys Cloud Developer Center](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
- - [Build an email translation assistant with the AWS Translate service Blueprint on the Genesys Cloud Developer Center]([https://developer.genesys.cloud/commdigital/digital/openmessaging/](https://developer.genesys.cloud/blueprints/email-translator-blueprint/))
+ - [Open Messaging Blueprint (Genesys Cloud Developer Center)](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
+ - [Build an email translation assistant with the AWS Translate service Blueprint (Genesys Cloud Developer Center)]([https://developer.genesys.cloud/commdigital/digital/openmessaging/](https://developer.genesys.cloud/blueprints/email-translator-blueprint/))
 
 ### Announcements on the Genesys Cloud Resource Center
 

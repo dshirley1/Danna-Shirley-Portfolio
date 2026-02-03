@@ -17,14 +17,14 @@ I'm Danna, a technical writer, project manager, and information strategist. I he
 
 ## Featured work 
 
-### API / Developer Documentation about Technical Solutions
+### API / Developer documentation about technical solutions
 
 I led a team that defined standards for blueprints, which provide structured guidance for developers who want to implement high-value features. My team created the template and guidelines for language and visuals, and I edited many blueprints, including:
 
  - [Open Messaging Blueprint (Genesys Cloud Developer Center)](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
  - [Build an email translation assistant with the AWS Translate service Blueprint (Genesys Cloud Developer Center)]([https://developer.genesys.cloud/commdigital/digital/openmessaging/](https://developer.genesys.cloud/blueprints/email-translator-blueprint/))
 
-### Announcements about Product Features
+### Announcements about product features
 
 I led the initiative to build a new Announcements space on the Genesys Cloud Resource Center, which is the main source for product information about Genesys Cloud. I coordinated with the Release Management, UX, and Engineering teams to design the site requirements, architecture, and functionality. After launch, I ensured smooth operations and regular updates to this highly visible space.  
 

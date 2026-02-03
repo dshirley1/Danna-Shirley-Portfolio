@@ -22,7 +22,7 @@ I'm Danna, a technical writer, project manager, and information strategist. I he
 I led a team that defined standards for blueprints, which provide structured guidance for developers who want to implement high-value features. My team created the template and guidelines for language and visuals, and I edited many blueprints, including:
 
  - [Open Messaging Blueprint (Genesys Cloud Developer Center)](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
- - [Build an email translation assistant with the AWS Translate service Blueprint (Genesys Cloud Developer Center)]([https://developer.genesys.cloud/commdigital/digital/openmessaging/](https://developer.genesys.cloud/blueprints/email-translator-blueprint/))
+ - [Build an email translation assistant with the AWS Translate service Blueprint (Genesys Cloud Developer Center)](https://developer.genesys.cloud/blueprints/email-translator-blueprint/)
 
 ### Announcements about product features
 

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Danna, Technical Writer and Project Manager.
+# Hi, I’m Danna, Technical Writer, Project Manager, and Information Strategist.
 
 I help companies publish clear, high-impact documentation about complex systems and platforms for customers, partners, and internal stakeholders.
 

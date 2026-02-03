@@ -52,4 +52,4 @@ Jira • Confluence  • MS Office
 
 - Email: dshirley1@indy.rr.com
 - LinkedIn: https://www.linkedin.com/in/danna-shirley-b6a5a314/
-- GitHub: https://dshirley1.github.io/Portfolio-DS1715/
+- GitHub: [https://dshirley1.github.io/Portfolio-DS1715/](https://dshirley1.github.io/Danna-Shirley-Portfolio/)

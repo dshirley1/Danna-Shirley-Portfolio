@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to my portfolio.
+# Welcome!
 
 I'm a technical writer, project manager, and information strategist. I help companies publish clear, high-impact documentation about complex systems and platforms. 
 

@@ -18,12 +18,9 @@ I help companies publish clear, easily navigable documentation, especially for c
 
 ## Featured work
 
-### 1) API / Developer Documentation
-**Outcome:** Faster onboarding and fewer support escalations  
-- Quickstart + authentication walkthrough  
-- Reference structure + examples  
-- Error handling and troubleshooting patterns  
-➡️ _Sample:_ [API Quickstart](./samples/api-quickstart)
+### 1) API / Developer Documentation / Blueprints
+**Outcome:** Faster enablement and broader adoption of complex features
+➡️ _Sample:_ [Open messaging blueprint](https://developer.genesys.cloud/commdigital/digital/openmessaging/)
 
 ### 2) Infrastructure / Operations Docs
 **Outcome:** Better reliability and smoother handoffs  

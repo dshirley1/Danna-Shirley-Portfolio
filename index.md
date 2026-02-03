@@ -44,7 +44,7 @@ I led the initiative to build a new Announcements space on the Genesys Cloud Res
 
 ## Tools and workflows
 
-Markdown • Git/GitHub • Docs-as-code • Style guides • Diagrams (LucidChart, Miro) • Jira • Confluence  • MS Office
+Markdown • HTML • Git/GitHub • LucidChart • Miro • Jira • Confluence  • MS Office 
 
 ---
 

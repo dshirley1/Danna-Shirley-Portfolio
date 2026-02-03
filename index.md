@@ -51,5 +51,5 @@ Markdown • HTML • Git/GitHub • LucidChart • Miro • Jira • Confluence
 ## Contact
 
 - Email: [dshirley1@indy.rr.com](mail: dshirley1@indy.rr.com)
-- LinkedIn: https://www.linkedin.com/in/danna-shirley-b6a5a314/(https://www.linkedin.com/in/danna-shirley-b6a5a314/)
+- LinkedIn: [https://www.linkedin.com/in/danna-shirley-b6a5a314/](https://www.linkedin.com/in/danna-shirley-b6a5a314/)
 - GitHub: [https://dshirley1.github.io/Danna-Shirley-Portfolio/](https://dshirley1.github.io/Danna-Shirley-Portfolio/) 
